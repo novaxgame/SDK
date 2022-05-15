@@ -8,3 +8,5 @@ novaxsdk.js is the file that contains functions for reading and writing data blo
 Please visit https://novaxgame.com/novaxsdk/sample.html for an online simple UI page that uses NovaX SDK.
 
 You can always check the source code of https://novaxgame.com . Our web UI uses the NovaX SDK in production too.
+
+Reach us via novaxgameapp@gmail.com for any questions or bug reports.
